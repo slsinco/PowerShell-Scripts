@@ -6,6 +6,6 @@ Results are sent to screen.
 
 ## Example
 ```
-.\Find-All-Users-In-Group.ps1 <Group>
+.\Find-AllUsersInGroup.ps1 <Group>
 ```
 
